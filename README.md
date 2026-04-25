@@ -1,10 +1,9 @@
-# 💫 About Me
-Hi 👋 I'm **Dipanjan Deb**  
-🚀 **Python Backend Developer | Data Engineering and Analytics**
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <b>I'm Dipanjan Deb<b></h1>
+<h3 align="center"></h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dipanjan51&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/dipanjan51?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dipanjan51?style=social)
+## 💫 About Me
+🚀 **Python Backend Developer | Data Engineering and Analytics**
 
 ---
 
@@ -93,3 +92,9 @@ Hi 👋 I'm **Dipanjan Deb**
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipanjan%20Deb-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dipanjan-deb)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dipanjandeb0@gmail.com)
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=dipanjan51&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/dipanjan51?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dipanjan51?style=social)
+
